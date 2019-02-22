@@ -10,6 +10,7 @@ public class Main {
         String check;
 
         Scanner in = new Scanner(System.in);
+        Calculation calc = new Calculation();
         do {
             System.out.println("Enter the first variable");
             float firstValue = in.nextFloat();
@@ -18,7 +19,7 @@ public class Main {
             System.out.println("Enter the second variable");
             float secondValue = in.nextFloat();
 
-            Calculation calc = new Calculation();
+
             calc.setFirstVariable(firstValue);
             calc.setSecondVariable(secondValue);
             switch (operand) {
@@ -42,7 +43,7 @@ public class Main {
                         System.out.println("It gives infinity Try again");
                         break;
                     }
-                    System.out.println("division=" + " " +  calc.division());
+                    System.out.println("division=" + " " + calc.division());
                     break;
 
                 default:
