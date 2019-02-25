@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2392b0b1-70ce-445c-8091-08e5461410c7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/exception/MultipleCatchExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exception/MultipleCatchAndAirthmaticException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -51,11 +51,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MultipleCatchExample.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MultipleCatchExample.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/exception/MultipleCatchExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="27" column="54" lean-forward="true" selection-start-line="27" selection-start-column="54" selection-end-line="27" selection-end-column="54" />
+            <state relative-caret-position="-225">
+              <caret line="1" column="139" selection-start-line="1" selection-start-column="139" selection-end-line="1" selection-end-column="139" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MultipleCatchAndAirthmaticException.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/exception/MultipleCatchAndAirthmaticException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -103,10 +112,11 @@
         <option value="$PROJECT_DIR$/src/com/exception/ReSolveInCatchBlock.java" />
         <option value="$PROJECT_DIR$/src/com/exception/JavaMultipleCatch.java" />
         <option value="$PROJECT_DIR$/src/com/exception/MultipleCatchExample.java" />
+        <option value="$PROJECT_DIR$/src/com/exception/MultipleCatchAndAirthmaticException.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="85" />
     <option name="y" value="25" />
     <option name="width" value="1750" />
@@ -176,20 +186,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MultipleCatchExample">
+  <component name="RunManager" selected="Application.MultipleCatchAndAirthmaticException">
     <configuration name="CustomMessageOnException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.exception.CustomMessageOnException" />
-      <module name="practice" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.exception.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="JavaTryCatchExceptionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.exception.JavaTryCatchExceptionExample" />
       <module name="practice" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -206,6 +205,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="calculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="MultipleCatchAndAirthmaticException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.exception.MultipleCatchAndAirthmaticException" />
+      <module name="practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -285,19 +295,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.JavaTryCatchExceptionExample" />
       <item itemvalue="Application.TryCatchBlock" />
       <item itemvalue="Application.CustomMessageOnException" />
       <item itemvalue="Application.ReSolveInCatchBlock" />
       <item itemvalue="Application.MultipleCatchExample" />
+      <item itemvalue="Application.MultipleCatchAndAirthmaticException" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MultipleCatchAndAirthmaticException" />
         <item itemvalue="Application.MultipleCatchExample" />
         <item itemvalue="Application.ReSolveInCatchBlock" />
         <item itemvalue="Application.CustomMessageOnException" />
         <item itemvalue="Application.TryCatchBlock" />
-        <item itemvalue="Application.JavaTryCatchExceptionExample" />
       </list>
     </recent_temporary>
   </component>
@@ -644,8 +654,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/exception/MultipleCatchExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="27" column="54" lean-forward="true" selection-start-line="27" selection-start-column="54" selection-end-line="27" selection-end-column="54" />
+        <state relative-caret-position="-225">
+          <caret line="1" column="139" selection-start-line="1" selection-start-column="139" selection-end-line="1" selection-end-column="139" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/exception/MultipleCatchAndAirthmaticException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
