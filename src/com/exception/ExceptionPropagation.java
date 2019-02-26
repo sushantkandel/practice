@@ -1,6 +1,7 @@
 package com.exception;
 
-/**In this program we are focusing on the exception propagation.
+/**
+ * In this program we are focusing on the exception propagation.
  * As we have the exception propagation class where it contains various method which is calling the next method explicitly
  * Here we are calling the College method from the static main class and college method is calling the student method of Exception propagation
  * and Student method is calling the student  marks method
@@ -15,27 +16,28 @@ package com.exception;
  */
 
 public class ExceptionPropagation {
-    void studentMarks(){      //Exception occured here.And propagate to student method
-       int studentId[]=new int[40];
-       studentId[41]=50;
-       System.out.println("Executed StudentMarks");
+    void studentMarks() {      //Exception occured here.And propagate to student method
+        int studentId[] = new int[40];
+        studentId[41] = 50;
+        System.out.println("Executed StudentMarks");
     }
-    void student(){ //exception propagate here and if not handled propagte to previous call stack i.e college method.
+
+    void student() { //exception propagate here and if not handled propagte to previous call stack i.e college method.
         studentMarks();
         System.out.println("Executed student");
     }
 
-    void college(){ //exception is handled .
+    void college() { //exception is handled .
         try {
             student();
-        }catch (ArrayIndexOutOfBoundsException e){
+        } catch (ArrayIndexOutOfBoundsException e) {
             System.out.println("Exception is handled in college method at it propagate from studentMarks");
         }
         System.out.println("Executed college");
     }
 
-    public static void main(String args[]){
-        ExceptionPropagation propagation=new ExceptionPropagation();
+    public static void main(String args[]) {
+        ExceptionPropagation propagation = new ExceptionPropagation();
         propagation.college();
 
         System.out.println("Rest of the code");

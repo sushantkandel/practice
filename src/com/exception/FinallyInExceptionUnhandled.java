@@ -5,10 +5,9 @@ public class FinallyInExceptionUnhandled {
         try {
             int a = 100 / 0;
             System.out.println(a);
-        }catch(ArrayIndexOutOfBoundsException e){
+        } catch (ArrayIndexOutOfBoundsException e) {
             System.out.println(e);
-        }
-        finally{
+        } finally {
             System.out.println("Finally is operated");
         }
     }
