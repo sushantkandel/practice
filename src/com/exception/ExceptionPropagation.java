@@ -10,7 +10,8 @@ package com.exception;
  * And finally it is handled in the college method.
  * Note:By using exception propagation we can handle the exception in any call stack.
  * Thank you
- *
+ * NOTE:Checked exception will not propagate only unchecked Exception propagate.Do you know why?
+ * Check exception is compile time exception it gives compile error and unchecked exception is run time exception so it is handled in real time.
  */
 
 public class ExceptionPropagation {
