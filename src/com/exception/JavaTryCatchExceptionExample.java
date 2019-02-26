@@ -2,7 +2,7 @@ package com.exception;
 
 /**
  * common scenarios of exception occur
- * when we divide any  number by zero a arithmetic exception occur if the result and variable are in float it will not occur.
+ * when we divide any  number by zero a arithmetic exception occur,if the result and variable are in float it will not occur.
  * If we have null value in any variable performing any action on that variable throw NullPointerException.
  * The wrong formatting of any value may occur NumberFormatException.suppose i have a string variable that has character
  * converting this variable into digit will occur NumberFormatException.
@@ -39,11 +39,9 @@ public class JavaTryCatchExceptionExample {
         try {
             int a[] = new int[5];
             a[10] = 50;
-        }catch (ArrayIndexOutOfBoundsException e){
+        } catch (ArrayIndexOutOfBoundsException e) {
             System.out.println(e);
         }
-
-
 
 
         System.out.println("rest of the code");//If didn't use TryCatch handling this code has not been executed
