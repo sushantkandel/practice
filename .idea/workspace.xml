@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2392b0b1-70ce-445c-8091-08e5461410c7" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/calculator/SocksCalculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculator/SocksCalculation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/exception/CustomMessageOnException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exception/CustomMessageOnException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/exception/ExceptionPropagation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exception/ExceptionPropagation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/exception/FinallyInExceptionHandled.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exception/FinallyInExceptionHandled.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/exception/FinallyInExceptionUnhandled.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exception/FinallyInExceptionUnhandled.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/exception/JavaFinallyBlockExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exception/JavaFinallyBlockExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/exception/MultipleCatchAndAirthmaticException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exception/MultipleCatchAndAirthmaticException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/exception/MultipleCatchExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exception/MultipleCatchExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/exception/ReSolveInCatchBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exception/ReSolveInCatchBlock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/exception/ThrowKeyboardExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exception/ThrowKeyboardExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exception/CustomException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exception/TestCustomException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/calculator/SocksCalculation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practice/calculator/SocksCalculation.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,92 +17,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="JavaTryCatchExceptionExample.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/exception/JavaTryCatchExceptionExample.java">
+      <file leaf-file-name="CustomException.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/exception/CustomException.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TryCatchBlock.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/exception/TryCatchBlock.java">
+      <file leaf-file-name="TestCustomException.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/exception/TestCustomException.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JavaFinallyBlockExample.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/exception/JavaFinallyBlockExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FinallyInExceptionHandled.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/exception/FinallyInExceptionHandled.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FinallyInExceptionUnhandled.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/exception/FinallyInExceptionUnhandled.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReSolveInCatchBlock.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/exception/ReSolveInCatchBlock.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ThrowKeyboardExample.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/exception/ThrowKeyboardExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MultipleCatchAndAirthmaticException.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/exception/MultipleCatchAndAirthmaticException.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SocksCalculation.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/calculator/SocksCalculation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="32" column="42" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MultipleCatchExample.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/exception/MultipleCatchExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+              <caret line="16" column="50" lean-forward="true" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -163,6 +85,8 @@
         <option value="$PROJECT_DIR$/src/com/exception/ReSolveInCatchBlock.java" />
         <option value="$PROJECT_DIR$/src/com/exception/ThrowKeyboardExample.java" />
         <option value="$PROJECT_DIR$/src/calculator/SocksCalculation.java" />
+        <option value="$PROJECT_DIR$/src/com/exception/CustomException.java" />
+        <option value="$PROJECT_DIR$/src/com/exception/TestCustomException.java" />
       </list>
     </option>
   </component>
@@ -180,7 +104,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -228,6 +151,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -242,7 +166,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SocksCalculation">
+  <component name="RunManager" selected="Application.TestCustomException">
     <configuration name="ExceptionPropagation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.exception.ExceptionPropagation" />
       <module name="practice" />
@@ -256,17 +180,6 @@
     </configuration>
     <configuration name="FinallyInExceptionHandled" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.exception.FinallyInExceptionHandled" />
-      <module name="practice" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.exception.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="FinallyInExceptionUnhandled" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.exception.FinallyInExceptionUnhandled" />
       <module name="practice" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -294,6 +207,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="calculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="TestCustomException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.exception.TestCustomException" />
+      <module name="practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -352,18 +276,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.SocksCalculation" />
-      <item itemvalue="Application.FinallyInExceptionUnhandled" />
       <item itemvalue="Application.ThrowKeyboardExample" />
       <item itemvalue="Application.MultipleCatchAndAirthmaticException" />
       <item itemvalue="Application.ExceptionPropagation" />
+      <item itemvalue="Application.TestCustomException" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestCustomException" />
         <item itemvalue="Application.SocksCalculation" />
         <item itemvalue="Application.ThrowKeyboardExample" />
         <item itemvalue="Application.ExceptionPropagation" />
         <item itemvalue="Application.MultipleCatchAndAirthmaticException" />
-        <item itemvalue="Application.FinallyInExceptionUnhandled" />
       </list>
     </recent_temporary>
   </component>
@@ -433,20 +357,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/exception/ReSolveInCatchBlock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/exception/MultipleCatchAndAirthmaticException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/calculator/SocksCalculation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="697">
@@ -741,13 +651,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/exception/JavaTryCatchExceptionExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/exception/MultipleCatchAndAirthmaticException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -757,15 +660,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/exception/MultipleCatchExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
+        <state relative-caret-position="272">
           <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/exception/ReSolveInCatchBlock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
@@ -785,8 +681,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/calculator/SocksCalculation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="42" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
+        <state relative-caret-position="119">
+          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/exception/JavaTryCatchExceptionExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/exception/ReSolveInCatchBlock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/exception/CustomException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/exception/TestCustomException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="50" lean-forward="true" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
         </state>
       </provider>
     </entry>
