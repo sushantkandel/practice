@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2392b0b1-70ce-445c-8091-08e5461410c7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/Inheritance/Developer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Inheritance/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Inheritance/ProjectManagerMultiLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aggregation/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aggregation/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/polymorphism/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/polymorphism/Salary.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/com/Inheritance/ProjectManagerMultiLevel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practice/com/Inheritance/ProjectManagerMultiLevel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Inheritance/ProjectManagerMultiLevel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Inheritance/ProjectManagerMultiLevel.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,28 +21,25 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Employee.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/Inheritance/Employee.java">
+        <entry file="file://$PROJECT_DIR$/src/com/polymorphism/Employee.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="255">
+              <caret line="15" column="25" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="25" />
+              <folding>
+                <element signature="e#439#440#0" expanded="true" />
+                <element signature="e#497#498#0" expanded="true" />
+                <element signature="e#590#591#0" expanded="true" />
+                <element signature="e#620#621#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Developer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/Inheritance/Developer.java">
+      <file leaf-file-name="Salary.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/polymorphism/Salary.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProjectManagerMultiLevel.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/Inheritance/ProjectManagerMultiLevel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+            <state relative-caret-position="149">
+              <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -100,6 +100,12 @@
         <option value="$PROJECT_DIR$/src/com/Inheritance/Developer.java" />
         <option value="$PROJECT_DIR$/src/com/Inheritance/Employee.java" />
         <option value="$PROJECT_DIR$/src/com/Inheritance/ProjectManagerMultiLevel.java" />
+        <option value="$PROJECT_DIR$/src/com/Aggregation/Employee.java" />
+        <option value="$PROJECT_DIR$/src/com/Aggregation/Address.java" />
+        <option value="$PROJECT_DIR$/src/com/Polymorphism.java" />
+        <option value="$PROJECT_DIR$/src/com/aggregation/Address.java" />
+        <option value="$PROJECT_DIR$/src/com/polymorphism/Employee.java" />
+        <option value="$PROJECT_DIR$/src/com/polymorphism/Salary.java" />
       </list>
     </option>
   </component>
@@ -117,6 +123,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -133,13 +140,12 @@
               <item name="practice" type="58d84e3e:PackageViewProjectNode" />
               <item name="practice" type="616d4139:PackageViewModuleNode" />
               <item name="com" type="1f31426a:PackageElementNode" />
-              <item name="Inheritance" type="1f31426a:PackageElementNode" />
+              <item name="polymorphism" type="1f31426a:PackageElementNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -177,7 +183,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ProjectManagerMultiLevel">
+  <component name="RunManager" selected="Application.Salary">
     <configuration name="Developer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Inheritance.Developer" />
       <module name="practice" />
@@ -185,6 +191,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.Inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Employee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aggregation.Employee" />
+      <module name="practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aggregation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -211,30 +228,19 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="SocksCalculation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="calculator.SocksCalculation" />
+    <configuration name="Salary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.polymorphism.Salary" />
       <module name="practice" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="calculator.*" />
+          <option name="PATTERN" value="com.polymorphism.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration name="TestCustomException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.exception.TestCustomException" />
-      <module name="practice" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.exception.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="ThrowKeyboardExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.exception.ThrowKeyboardExample" />
       <module name="practice" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -286,19 +292,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.SocksCalculation" />
-      <item itemvalue="Application.ThrowKeyboardExample" />
       <item itemvalue="Application.TestCustomException" />
       <item itemvalue="Application.Developer" />
       <item itemvalue="Application.ProjectManagerMultiLevel" />
+      <item itemvalue="Application.Employee" />
+      <item itemvalue="Application.Salary" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Salary" />
+        <item itemvalue="Application.Employee" />
         <item itemvalue="Application.ProjectManagerMultiLevel" />
         <item itemvalue="Application.Developer" />
         <item itemvalue="Application.TestCustomException" />
-        <item itemvalue="Application.SocksCalculation" />
-        <item itemvalue="Application.ThrowKeyboardExample" />
       </list>
     </recent_temporary>
   </component>
@@ -324,7 +330,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -368,41 +374,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/exception/CustomMessageOnException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/exception/ReSolveInCatchBlock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/exception/MultipleCatchExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/exception/JavaTryCatchExceptionExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="39" column="33" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/exception/TryCatchBlock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/exception/CustomMessageOnException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -720,8 +691,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Inheritance/ProjectManagerMultiLevel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        <state relative-caret-position="153">
+          <caret line="9" column="64" selection-start-line="9" selection-start-column="64" selection-end-line="9" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aggregation/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Polymorphism.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aggregation/Address.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/polymorphism/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="25" />
+          <folding>
+            <element signature="e#439#440#0" expanded="true" />
+            <element signature="e#497#498#0" expanded="true" />
+            <element signature="e#590#591#0" expanded="true" />
+            <element signature="e#620#621#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/polymorphism/Salary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
         </state>
       </provider>
     </entry>

@@ -7,6 +7,7 @@ package com.Inheritance;
  * is not happen.
  * Multiple inheritance is not supported in the java class so that to remove the ambiguity it is removed but we can have the multiple inheritance
  * By using the Interface.
+ * Interface is use for method overloading and code Reusability.
  */
 
 public class ProjectManagerMultiLevel extends Developer {
