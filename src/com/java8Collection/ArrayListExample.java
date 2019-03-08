@@ -27,8 +27,8 @@ public class ArrayListExample {
 
         }
         int index = integers.indexOf(20);//finding the index value of 20.and placed in the variable index
-        System.out.println("The index of search is: "+index);
-        Integer searchItem=integers.get(index);//placing the the value of the evaluated index in the variable named searchItem.
-        System.out.println("The searched value is: "+searchItem);//displaying the value present in search item.
+        System.out.println("The index of search is: " + index);
+        Integer searchItem = integers.get(index);//placing the the value of the evaluated index in the variable named searchItem.
+        System.out.println("The searched value is: " + searchItem);//displaying the value present in search item.
     }
 }
