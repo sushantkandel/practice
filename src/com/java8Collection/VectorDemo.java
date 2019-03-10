@@ -13,11 +13,14 @@ public class VectorDemo {
         Enumeration e = v.elements();
         while (e.hasMoreElements()) {
             int i = (Integer) e.nextElement();
+            int j=v.indexOf(i);
+            System.out.println("i= "+j);
             if (i%2==0) {
                 System.out.println(i);
             } else {
                 System.out.println(i + " is removed");
                    v.removeElement(i);
+
                     //System.out.println(v);
             }
 
