@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2392b0b1-70ce-445c-8091-08e5461410c7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/java8Collection/IteratorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8Collection/ListIteratorDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,11 +15,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="IteratorDemo.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="IteratorDemo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/java8Collection/IteratorDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
+            <state relative-caret-position="126">
               <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ListIteratorDemo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/java8Collection/ListIteratorDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="143">
+              <caret line="29" column="39" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -47,7 +60,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/practice/Main.java" />
         <option value="$PROJECT_DIR$/src/com/calculator/Addition.java" />
         <option value="$PROJECT_DIR$/src/com/calculator/Switch.java" />
         <option value="$PROJECT_DIR$/src/com/calculator/Main.java" />
@@ -98,10 +110,11 @@
         <option value="$PROJECT_DIR$/src/com/java8Collection/Vector.java" />
         <option value="$PROJECT_DIR$/src/com/java8Collection/VectorDemo.java" />
         <option value="$PROJECT_DIR$/src/com/java8Collection/IteratorDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/java8Collection/ListIteratorDemo.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="85" />
     <option name="y" value="25" />
     <option name="width" value="1750" />
@@ -182,7 +195,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.IteratorDemo">
+  <component name="RunManager" selected="Application.ListIteratorDemo">
     <configuration name="ArrayListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.java8Collection.ArrayListExample" />
       <module name="practice" />
@@ -205,17 +218,6 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="InnerOuterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.nestedAndInnerClass.InnerOuterTest" />
-      <module name="practice" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.nestedAndInnerClass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
     <configuration name="IteratorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.java8Collection.IteratorDemo" />
       <module name="practice" />
@@ -234,6 +236,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.java8ComparatorExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ListIteratorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java8Collection.ListIteratorDemo" />
+      <module name="practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java8Collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -292,18 +305,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Java8ComparatorExample" />
-      <item itemvalue="Application.InnerOuterTest" />
       <item itemvalue="Application.ArrayListExample" />
       <item itemvalue="Application.VectorDemo" />
       <item itemvalue="Application.IteratorDemo" />
+      <item itemvalue="Application.ListIteratorDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ListIteratorDemo" />
         <item itemvalue="Application.IteratorDemo" />
         <item itemvalue="Application.VectorDemo" />
         <item itemvalue="Application.Java8ComparatorExample" />
         <item itemvalue="Application.ArrayListExample" />
-        <item itemvalue="Application.InnerOuterTest" />
       </list>
     </recent_temporary>
   </component>
@@ -334,17 +347,18 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32965517" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2675862" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2675862" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32965517" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22526042" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22526042" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -357,7 +371,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32965517" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -373,13 +386,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/practice/Cat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/practice/Elephant.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -704,8 +710,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/java8Collection/IteratorDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
+        <state relative-caret-position="126">
           <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8Collection/ListIteratorDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="29" column="39" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
