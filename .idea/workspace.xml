@@ -1,8 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2392b0b1-70ce-445c-8091-08e5461410c7" name="Default" comment="">
+    <list default="true" id="784a4cee-09ba-4f26-875b-25ea4e6136a7" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/StaticTut.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/calculator/Calculation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/calculator/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/calculator/SocksCalculation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/com/Inheritance/Developer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/com/Inheritance/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/com/Inheritance/ProjectManagerMultiLevel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/com/aggregation/Address.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/com/aggregation/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/com/exception/CustomException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/com/exception/CustomMessageOnException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/com/exception/ExceptionPropagation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/com/exception/FinallyInExceptionHandled.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/com/exception/FinallyInExceptionUnhandled.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/com/exception/JavaFinallyBlockExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/com/exception/JavaTryCatchExceptionExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/com/exception/MultipleCatchAndAirthmaticException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/com/exception/MultipleCatchExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/com/exception/ReSolveInCatchBlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/com/exception/TestCustomException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/com/exception/ThrowKeyboardExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/com/exception/TryCatchBlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/com/java8Collection/ArrayListExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/com/java8Collection/IteratorDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/com/java8Collection/ListIteratorDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/com/java8Collection/VectorDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/com/java8ComparatorExample/Java8ComparatorExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/com/java8ComparatorExample/Member.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/com/nestedAndInnerClass/InnerOuterTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/com/nestedAndInnerClass/OuterClass$Inner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/com/nestedAndInnerClass/OuterClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/com/objectCloning/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/com/objectComparatorGeneric/AgeComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/com/objectComparatorGeneric/Member.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/com/objectComparatorGeneric/NameComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/com/objectComparatorGeneric/SimpleExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/com/polymorphism/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/com/polymorphism/Salary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/com/practice/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/com/practice/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/com/practice/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/com/practice/Elephant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/com/practice/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Inheritance/Developer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Inheritance/Developer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Inheritance/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Inheritance/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Inheritance/ProjectManagerMultiLevel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Inheritance/ProjectManagerMultiLevel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exception/JavaFinallyBlockExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exception/JavaFinallyBlockExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exception/ReSolveInCatchBlock.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/java8Collection/IteratorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java8Collection/IteratorDemo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -14,93 +66,29 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="IteratorDemo.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/java8Collection/IteratorDemo.java">
+    <leaf>
+      <file leaf-file-name="CatchBlockDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/exception/CatchBlockDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="306">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JavaFinallyBlockExample.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/exception/JavaFinallyBlockExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Interface" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>Statictut</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/com/calculator/Addition.java" />
-        <option value="$PROJECT_DIR$/src/com/calculator/Switch.java" />
-        <option value="$PROJECT_DIR$/src/com/calculator/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/calculator/Calculation.java" />
-        <option value="$PROJECT_DIR$/src/com/calculator/getSet/Calculation.java" />
-        <option value="$PROJECT_DIR$/src/com/calc/getSet/Calculation.java" />
-        <option value="$PROJECT_DIR$/src/com/calc/getSet/Main.java" />
-        <option value="$PROJECT_DIR$/src/calculator/Calculation.java" />
-        <option value="$PROJECT_DIR$/src/calculator/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/exception/TryCatchBlock.java" />
-        <option value="$PROJECT_DIR$/src/com/exception/JavaMultipleCatch.java" />
-        <option value="$PROJECT_DIR$/src/com/exception/JavaTryCatchExceptionExample.java" />
-        <option value="$PROJECT_DIR$/src/com/exception/CustomMessageOnException.java" />
-        <option value="$PROJECT_DIR$/src/com/exception/ExceptionPropagation.java" />
-        <option value="$PROJECT_DIR$/src/com/exception/FinallyInExceptionHandled.java" />
-        <option value="$PROJECT_DIR$/src/com/exception/FinallyInExceptionUnhandled.java" />
-        <option value="$PROJECT_DIR$/src/com/exception/JavaFinallyBlockExample.java" />
-        <option value="$PROJECT_DIR$/src/com/exception/MultipleCatchAndAirthmaticException.java" />
-        <option value="$PROJECT_DIR$/src/com/exception/MultipleCatchExample.java" />
-        <option value="$PROJECT_DIR$/src/com/exception/ReSolveInCatchBlock.java" />
-        <option value="$PROJECT_DIR$/src/com/exception/ThrowKeyboardExample.java" />
-        <option value="$PROJECT_DIR$/src/calculator/SocksCalculation.java" />
-        <option value="$PROJECT_DIR$/src/com/exception/CustomException.java" />
-        <option value="$PROJECT_DIR$/src/com/exception/TestCustomException.java" />
-        <option value="$PROJECT_DIR$/src/com/Inheritance/InheritanceExampleOverview.java" />
-        <option value="$PROJECT_DIR$/src/com/Inheritance/Developer.java" />
-        <option value="$PROJECT_DIR$/src/com/Inheritance/Employee.java" />
-        <option value="$PROJECT_DIR$/src/com/Inheritance/ProjectManagerMultiLevel.java" />
-        <option value="$PROJECT_DIR$/src/com/Aggregation/Employee.java" />
-        <option value="$PROJECT_DIR$/src/com/Aggregation/Address.java" />
-        <option value="$PROJECT_DIR$/src/com/Polymorphism.java" />
-        <option value="$PROJECT_DIR$/src/com/aggregation/Address.java" />
-        <option value="$PROJECT_DIR$/src/com/polymorphism/Employee.java" />
-        <option value="$PROJECT_DIR$/src/com/polymorphism/Salary.java" />
-        <option value="$PROJECT_DIR$/src/com/objectCloning/Objectcloning.java" />
-        <option value="$PROJECT_DIR$/src/com/objectCloning/Employee.java" />
-        <option value="$PROJECT_DIR$/src/com/objectComparator/AgeComparator.java" />
-        <option value="$PROJECT_DIR$/src/com/objectComparator/NameComparator.java" />
-        <option value="$PROJECT_DIR$/src/com/objectComparator/Member.java" />
-        <option value="$PROJECT_DIR$/src/com/objectComparator/SimpleExample.java" />
-        <option value="$PROJECT_DIR$/src/com/objectComparatorGeneric/SimpleExample.java" />
-        <option value="$PROJECT_DIR$/src/com/java8ComparatorExample/Member.java" />
-        <option value="$PROJECT_DIR$/src/com/nestedAndInnerClass/OuterClass.java" />
-        <option value="$PROJECT_DIR$/src/com/nestedAndInnerClass/InnerOuterTest.java" />
-        <option value="$PROJECT_DIR$/src/com/java8Collection/ArrayList.java" />
-        <option value="$PROJECT_DIR$/src/com/java8Collection/ArrayListExample.java" />
-        <option value="$PROJECT_DIR$/src/com/java8ComparatorExample/Java8ComparatorExample.java" />
-        <option value="$PROJECT_DIR$/src/com/java8Collection/Vector.java" />
-        <option value="$PROJECT_DIR$/src/com/java8Collection/VectorDemo.java" />
-        <option value="$PROJECT_DIR$/src/com/java8Collection/ListIteratorDemo.java" />
-        <option value="$PROJECT_DIR$/src/com/java8Collection/IteratorDemo.java" />
-      </list>
-    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="85" />
@@ -108,32 +96,11 @@
     <option name="width" value="1750" />
     <option name="height" value="970" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="practice" type="58d84e3e:PackageViewProjectNode" />
-              <item name="practice" type="616d4139:PackageViewModuleNode" />
-            </path>
-            <path>
-              <item name="practice" type="58d84e3e:PackageViewProjectNode" />
-              <item name="practice" type="616d4139:PackageViewModuleNode" />
-              <item name="com" type="1f31426a:PackageElementNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -150,12 +117,6 @@
               <item name="practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="practice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="calculator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -163,16 +124,23 @@
               <item name="practice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="java8Collection" type="462c0819:PsiDirectoryNode" />
+              <item name="aggregation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="exception" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="E:/github/intern-practice" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -186,69 +154,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.IteratorDemo">
-    <configuration name="ArrayListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java8Collection.ArrayListExample" />
-      <module name="practice" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.java8Collection.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="FinallyInExceptionHandled" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.exception.FinallyInExceptionHandled" />
+  <component name="RunManager">
+    <configuration name="CatchBlockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.exception.CatchBlockDemo" />
       <module name="practice" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.exception.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="IteratorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java8Collection.IteratorDemo" />
-      <module name="practice" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.java8Collection.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Java8ComparatorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java8ComparatorExample.Java8ComparatorExample" />
-      <module name="practice" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.java8ComparatorExample.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="ListIteratorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java8Collection.ListIteratorDemo" />
-      <module name="practice" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.java8Collection.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="VectorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java8Collection.VectorDemo" />
-      <module name="practice" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.java8Collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -294,20 +207,9 @@
       <properties />
       <listeners />
     </configuration>
-    <list>
-      <item itemvalue="Application.Java8ComparatorExample" />
-      <item itemvalue="Application.ArrayListExample" />
-      <item itemvalue="Application.VectorDemo" />
-      <item itemvalue="Application.IteratorDemo" />
-      <item itemvalue="Application.ListIteratorDemo" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.IteratorDemo" />
-        <item itemvalue="Application.ListIteratorDemo" />
-        <item itemvalue="Application.VectorDemo" />
-        <item itemvalue="Application.Java8ComparatorExample" />
-        <item itemvalue="Application.ArrayListExample" />
+        <item itemvalue="Application.CatchBlockDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -316,402 +218,60 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2392b0b1-70ce-445c-8091-08e5461410c7" name="Default" comment="" />
-      <created>1550643621188</created>
+      <changelist id="784a4cee-09ba-4f26-875b-25ea4e6136a7" name="Default" comment="" />
+      <created>1554269300318</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1550643621188</updated>
+      <updated>1554269300318</updated>
     </task>
-    <task id="LOCAL-00001" summary="Calculation object refactor">
-      <created>1550815222460</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1550815222460</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32965517" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27635327" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32965517" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23557048" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info id="Image Layers" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="UI Designer" />
+      <window_info anchor="right" id="Theme Preview" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Calculation object refactor" />
-    <option name="LAST_COMMIT_MESSAGE" value="Calculation object refactor" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="1" />
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/practice/Elephant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/practice/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StaticTut.java">
+    <entry file="file://$PROJECT_DIR$/src/com/exception/CatchBlockDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/practice/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="17" selection-start-line="3" selection-start-column="9" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/practice/Cat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/practice/Elephant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/practice/Dog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/calculator/getSet/Calculation.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/calculator/Calculation.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/calculator/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/exception/CustomMessageOnException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/exception/ExceptionPropagation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="21" column="3" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/exception/FinallyInExceptionHandled.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/exception/FinallyInExceptionUnhandled.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/exception/JavaFinallyBlockExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/exception/MultipleCatchAndAirthmaticException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/exception/MultipleCatchExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/exception/ThrowKeyboardExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/exception/TryCatchBlock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/exception/JavaTryCatchExceptionExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="65">
-          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/exception/ReSolveInCatchBlock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/exception/CustomException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/exception/TestCustomException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Inheritance/Developer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Inheritance/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Inheritance/ProjectManagerMultiLevel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="64" selection-start-line="9" selection-start-column="64" selection-end-line="9" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aggregation/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Polymorphism.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/aggregation/Address.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
           <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/polymorphism/Salary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/polymorphism/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="25" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/objectCloning/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="29" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/objectComparatorGeneric/NameComparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="52" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/objectComparatorGeneric/AgeComparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="55" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/objectComparatorGeneric/Member.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/function/Function.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="45" column="37" lean-forward="true" selection-start-line="45" selection-start-column="37" selection-end-line="45" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java8ComparatorExample/Member.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/objectComparatorGeneric/SimpleExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nestedAndInnerClass/InnerOuterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nestedAndInnerClass/OuterClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/Comparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7327">
-          <caret line="463" column="69" selection-start-line="463" selection-start-column="69" selection-end-line="463" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/Vector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="830" selection-start-line="830" selection-end-line="830" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java8Collection/ArrayListExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java8ComparatorExample/Java8ComparatorExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="27" column="42" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/calculator/SocksCalculation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/practice/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/calculator/Calculation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/calculator/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="14" selection-start-line="24" selection-start-column="11" selection-end-line="26" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java8Collection/VectorDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="34" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java8Collection/ListIteratorDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="32" column="48" selection-start-line="32" selection-start-column="48" selection-end-line="32" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java8Collection/IteratorDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -720,6 +280,7 @@
     <states>
       <state key="ProjectJDKs.UI">
         <settings>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

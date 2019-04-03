@@ -5,12 +5,10 @@ import java.util.Iterator;
 
 public class IteratorDemo {
     public static void main(String args[]) {
-
         ArrayList al = new ArrayList();
         for (int i = 0; i < 10; i++) {
             al.add(i);
         }
-
         al.forEach(i->System.out.println(i));
         System.out.println("The System Value is" + al);
         Iterator itr = al.iterator();
